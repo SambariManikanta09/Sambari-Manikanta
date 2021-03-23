@@ -28,9 +28,9 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/MANIKAN86870970
+[twitter]: https://twitter.com/MANIKAN86870970/
 [instagram]: https://www.instagram.com/sambarapumanikanta/
-[linkedin]: https://www.linkedin.com/in/sambarimanikanta
+[linkedin]: https://www.linkedin.com/in/sambarimanikanta/
 
 ![Pic](https://github-readme-stats.vercel.app/api?username=SambariManikanta&show_icons=true&theme=dracula)
 
