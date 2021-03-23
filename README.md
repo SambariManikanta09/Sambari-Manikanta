@@ -35,11 +35,11 @@
 [linkedin]: https://www.linkedin.com/in/sambarimanikanta/
 
 ---
-<details>
+<!--<details>-->
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sambari Manikanta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sambari-Manikanta&show_icons=true&hide_border=true" />
 
-</details>
+<!--</details>-->
 
 <!--Original Video link: https://youtu.be/ECuqb5Tv9qI-->
