@@ -33,6 +33,12 @@
 [instagram]: https://www.instagram.com/sambarapumanikanta/
 [linkedin]: https://www.linkedin.com/in/sambarimanikanta/
 
-![Pic](https://github-readme-stats.vercel.app/api?username=SambariManikanta&show_icons=true&theme=dracula)
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--Original Video link: https://youtu.be/ECuqb5Tv9qI-->
