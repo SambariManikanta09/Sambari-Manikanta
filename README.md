@@ -37,7 +37,7 @@
 
  <summary>:zap: Languages Worked With </summary> 
  
- <img align="left" alt="Programming Languages Sambari Manikanta worked with" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambariManikanta09&layout=compact" />
+ <img align="left" alt="Programming Languages Sambari Manikanta worked with" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SambariManikanta09&layout=compact&show_icons=true&hide_border=true" />
 
 <!--</details>-->
 
