@@ -34,6 +34,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sambari Manikanta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SambariManikanta09&show_icons=true&hide_border=true" />
+  
+  <summant>:zap: Languages Worked With </summary>
+  <img align="left" alt="Programming Languages Sambari Manikanta worked with" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 <!--</details>-->
 
